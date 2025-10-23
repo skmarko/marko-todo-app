@@ -2,6 +2,10 @@
 
 ## 🧰 Tech Stack All Code In Master branch
 
+DummyJSON api not store new user use this crendtial for login.
+    username: 'emilys',
+    password: 'emilyspass',
+
 | Layer | Technology |
 |-------|-------------|
 | **Frontend** | Next.js (React), Tailwind CSS, SweetAlert2, jwt-decode |
